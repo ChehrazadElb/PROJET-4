@@ -1,0 +1,1 @@
+Mon travail chez BestMarket a consisté à analyser les retours clients afin d'identifier des pistes d'amélioration pour le réseau de magasins. Après avoir reformulé les besoins exprimés par le service client, j'ai effectué une analyse approfondie des données en utilisant SQL pour répondre à leurs questions spécifiques.
